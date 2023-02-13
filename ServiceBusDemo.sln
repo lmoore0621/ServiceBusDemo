@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SBSender", "SBSender\SBSender.csproj", "{74F7A5CC-2AFA-4782-ABB9-223D37A54CD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SBShared", "SBShared\SBShared.csproj", "{4866EFC7-BEB6-49AB-B265-5A256F647EBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SBReciever", "SBReciever\SBReciever.csproj", "{16939EAB-3403-45E4-B360-3A64380F51F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74F7A5CC-2AFA-4782-ABB9-223D37A54CD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74F7A5CC-2AFA-4782-ABB9-223D37A54CD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74F7A5CC-2AFA-4782-ABB9-223D37A54CD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74F7A5CC-2AFA-4782-ABB9-223D37A54CD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4866EFC7-BEB6-49AB-B265-5A256F647EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4866EFC7-BEB6-49AB-B265-5A256F647EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4866EFC7-BEB6-49AB-B265-5A256F647EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4866EFC7-BEB6-49AB-B265-5A256F647EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16939EAB-3403-45E4-B360-3A64380F51F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16939EAB-3403-45E4-B360-3A64380F51F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16939EAB-3403-45E4-B360-3A64380F51F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16939EAB-3403-45E4-B360-3A64380F51F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30153F12-8BA0-4DB8-93BA-60213FA75008}
+	EndGlobalSection
+EndGlobal
